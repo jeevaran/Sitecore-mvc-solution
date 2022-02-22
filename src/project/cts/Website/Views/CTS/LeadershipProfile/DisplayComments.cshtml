@@ -1,0 +1,7 @@
+﻿@model IEnumerable<CTS.Project.CTS.Models.Comments>
+@foreach (var comment in Model)
+{
+    <div>@comment.Comment</div>
+    <div>@comment.EmailId</div>
+    <div>@comment.Name</div>
+}

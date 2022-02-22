@@ -1,0 +1,13 @@
+﻿@model CTS.Project.CTS.Models.Comments
+
+@using (Html.BeginForm())
+{
+<div>
+    <div>@Html.LabelFor(x => x.Comment)</div>
+    <div>@Html.TextBoxFor(x => x.Comment)</div>
+    <div>@Html.LabelFor(x => x.EmailId)</div>
+    <div>@Html.TextBoxFor(x => x.EmailId)</div>
+    <div>@Html.LabelFor(x => x.Name)</div>
+    <div>@Html.TextBoxFor(x => x.Name)</div>
+    <div><input type="submit" value="Submit" /></div>
+</div>}
