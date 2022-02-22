@@ -13,7 +13,7 @@ namespace CTS.Project.CTS.Controllers
 {
     public class CommentsFormController : Controller
     {
-        // GET: CommentsForm
+        // GET: CommentsForm - test
         [HttpGet]
         public ActionResult CommentsFormAction()
         {
