@@ -287,12 +287,14 @@
     <Content Include="Views\CTS\LeadershipProfile\CommentsFormAction.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\Thanksyou.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\DisplayComments.cshtml" />
+    <Content Include="Views\CTS\Common\FeatureArticle.cshtml" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Controllers\CommentsFormController.cs" />
     <Compile Include="Controllers\CTSProfileController.cs" />
     <Compile Include="Controllers\DisplaycommentsController.cs" />
+    <Compile Include="Controllers\FeaturedArticleController.cs" />
     <Compile Include="Controllers\FilePathController.cs" />
     <Compile Include="Controllers\StartupJoinersController.cs" />
     <Compile Include="Models\Article.cs" />
@@ -318,6 +320,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Models\NewFolder1\" />
     <Folder Include="Views\Displaycomments\" />
+    <Folder Include="Views\FeaturedArticle\" />
     <Folder Include="Views\StartupJoiners\" />
   </ItemGroup>
   <PropertyGroup>
