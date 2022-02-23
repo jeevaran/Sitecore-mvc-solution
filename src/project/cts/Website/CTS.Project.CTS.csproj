@@ -281,13 +281,14 @@
     <Content Include="Views\CTSProfile\GetProfileinfo.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\LeaderProfile.cshtml" />
     <Content Include="Views\CTS\Listing\StartupJoiners.cshtml" />
-    <Content Include="App_Config\Cts\Cts.MyCompany.SiteDefinistion.config" />
-    <Content Include="App_Config\Cts\Cts.YourCompany.SiteDefinistion.config" />
+    <Content Include="App_Config\Include\Cts\Cts.MyCompany.SiteDefinistion.config" />
+    <Content Include="App_Config\Include\Cts\Cts.YourCompany.SiteDefinistion.config" />
     <Content Include="Views\CTS\Common\BreadCrumb.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\CommentsFormAction.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\Thanksyou.cshtml" />
     <Content Include="Views\CTS\LeadershipProfile\DisplayComments.cshtml" />
     <Content Include="Views\CTS\Common\FeatureArticle.cshtml" />
+    <Content Include="App_Config\Include\Cts\Cts.Project.Cts.Serialization.config" />
     <None Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
