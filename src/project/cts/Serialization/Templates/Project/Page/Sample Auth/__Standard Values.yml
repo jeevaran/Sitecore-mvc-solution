@@ -1,0 +1,61 @@
+﻿---
+ID: "fc3c6a6f-0fe6-4d80-929d-1e603bc71cc8"
+Parent: "6df7f1d2-0249-46dd-9206-9e6713220c98"
+Template: "6df7f1d2-0249-46dd-9206-9e6713220c98"
+Path: /sitecore/templates/Project/Page/Sample Auth/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{B3D5055C-AEC0-4762-A437-F33DD0209CE0}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E185FD2A-4F58-4E57-ADCF-584EACE92422}">
+        <r
+          id="{75655481-95E2-46AF-82AA-72D522014DB4}"
+          ph="cts-main"
+          uid="{15C49966-960A-4672-9834-DCED81B9E50E}" />
+        <r
+          id="{FC53593A-FFA0-4A59-A2B2-6E2BEA448E50}"
+          ph="cts-main"
+          uid="{090C4434-85D4-4678-BC48-0AA530820A58}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "119fa9db-44af-408a-947c-2e6aefae7652"
+      Hint: Image
+      Value: |
+        <image mediaid="{5D030DF0-7D76-408A-8AEF-E733A0E33B77}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T044848Z
+    - ID: "332a89e2-e195-4e30-8ba5-7a791cf934ad"
+      Hint: Author
+      Value: APJ
+    - ID: "373e5d48-a8e7-4673-96e8-1f2da34d5ed4"
+      Hint: Version
+      Value: 1.1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b0eda48b-a037-4f48-86d3-6a944c4e3d1e"
+      Hint: Title
+      Value: APJ
+    - ID: "b4a9a8f2-bbe4-47f9-8ffc-683c1715ce7f"
+      Hint: Brief
+      Value: |
+        <span style="color: #202122;">Avul Pakir Jainulabdeen Abdul Kalam</span><span style="background-color: #ffffff; color: #202122;"> (</span><span class="rt-commentedText nowrap" style="color: #202122;"><span class="IPA nopopups noexcerpt"><a title="Help:IPA/English" href="https://en.wikipedia.org/wiki/Help:IPA/English" style="color: #0645ad;">/<span style="border-bottom: 1px dotted currentcolor;"><span title="/ˈ/: primary stress follows">ˈ</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'b' in 'buy'">b</span><span title="'d' in 'dye'">d</span><span title="/əl/: 'le' in 'bottle'">əl</span></span><span class="wrap"> </span><span style="border-bottom: 1px dotted currentcolor;"><span title="'k' in 'kind'">k</span><span title="/ə/: 'a' in 'about'">ə</span><span title="/ˈ/: primary stress follows">ˈ</span><span title="'l' in 'lie'">l</span><span title="/ɑː/: 'a' in 'father'">ɑː</span><span title="'m' in 'my'">m</span></span>/</a></span> <span class="nowrap">(<span class="unicode haudio"><span class="fn"><span style="margin-right: 0.25em;"><a title="About this sound" href="https://en.wikipedia.org/wiki/File:En-us-A.p.j._Abdul_Kalam_from_India_pronunciation_(Voice_of_America).ogg" style="color: #0645ad;"><img width="11" height="11" alt="audio speaker icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Loudspeaker.svg/17px-Loudspeaker.svg.png" data-file-height="20" data-file-width="20" decoding="async" style="border:0px none;margin: 0px;" /></a></span><a title="En-us-A.p.j. Abdul Kalam from India pronunciation (Voice of America).ogg" class="internal" href="https://upload.wikimedia.org/wikipedia/commons/4/48/En-us-A.p.j._Abdul_Kalam_from_India_pronunciation_%28Voice_of_America%29.ogg" style="color: #0645ad;">listen</a></span></span>)</span></span><span style="background-color: #ffffff; color: #202122;">; 15 October 1931&nbsp;&ndash; 27 July 2015) was an Indian aerospace scientist who served as the 11th </span><a title="President of India" href="https://en.wikipedia.org/wiki/President_of_India" style="color: #0645ad;">president of India</a><span style="background-color: #ffffff; color: #202122;"> from 2002 to 2007. He was born and raised in </span><a title="Rameswaram" href="https://en.wikipedia.org/wiki/Rameswaram" style="color: #0645ad;">Rameswaram</a><span style="background-color: #ffffff; color: #202122;">, </span><a title="Tamil Nadu" href="https://en.wikipedia.org/wiki/Tamil_Nadu" style="color: #0645ad;">Tamil Nadu</a><span style="background-color: #ffffff; color: #202122;"> and studied </span><a title="Physics" href="https://en.wikipedia.org/wiki/Physics" style="color: #0645ad;">physics</a><span style="background-color: #ffffff; color: #202122;"> and </span><a title="Aerospace engineering" href="https://en.wikipedia.org/wiki/Aerospace_engineering" style="color: #0645ad;">aerospace engineering</a><span style="background-color: #ffffff; color: #202122;">. He spent the next four decades as a scientist and science administrator, mainly at the </span><a title="Defence Research and Development Organisation" href="https://en.wikipedia.org/wiki/Defence_Research_and_Development_Organisation" style="color: #0645ad;">Defence Research and Development Organisation</a><span style="background-color: #ffffff; color: #202122;"> (DRDO) and </span><a title="Indian Space Research Organisation" href="https://en.wikipedia.org/wiki/Indian_Space_Research_Organisation" style="color: #0645ad;">Indian Space Research Organisation</a><span style="background-color: #ffffff; color: #202122;"> (ISRO) and was intimately involved in India's civilian space programme and military </span><a title="Integrated Guided Missile Development Program" class="mw-redirect" href="https://en.wikipedia.org/wiki/Integrated_Guided_Missile_Development_Program" style="color: #0645ad;">missile development efforts</a><span style="background-color: #ffffff; color: #202122;">.</span><sup class="reference" id="cite_ref-Britannica_2-0" style="color: #202122; line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-Britannica-2" style="color: #0645ad;">[1]</a></sup><span style="background-color: #ffffff; color: #202122;"> He thus came to be known as the </span><em style="color: #202122;">Missile Man of India</em><span style="background-color: #ffffff; color: #202122;"> for his work on the development of </span><a title="Ballistic missile" href="https://en.wikipedia.org/wiki/Ballistic_missile" style="color: #0645ad;">ballistic missile</a><span style="background-color: #ffffff; color: #202122;"> and </span><a title="Launch vehicle" href="https://en.wikipedia.org/wiki/Launch_vehicle" style="color: #0645ad;">launch vehicle</a><span style="background-color: #ffffff; color: #202122;"> technology.</span><sup class="reference" id="cite_ref-3" style="color: #202122; line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-3" style="color: #0645ad;">[2]</a></sup><sup class="reference" id="cite_ref-4" style="color: #202122; line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-4" style="color: #0645ad;">[3]</a></sup><sup class="reference" id="cite_ref-5" style="color: #202122; line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-5" style="color: #0645ad;">[4]</a></sup><span style="background-color: #ffffff; color: #202122;"> He also played a pivotal organisational, technical, and political role in India's </span><em style="color: #202122;"><a title="Pokhran-II" href="https://en.wikipedia.org/wiki/Pokhran-II" style="color: #0645ad;">Pokhran-II</a></em><span style="background-color: #ffffff; color: #202122;"> nuclear tests in 1998, the first since the </span><a title="Smiling Buddha" href="https://en.wikipedia.org/wiki/Smiling_Buddha" style="color: #0645ad;">original nuclear test by India</a><span style="background-color: #ffffff; color: #202122;"> in 1974.</span><sup class="reference" id="cite_ref-6" style="color: #202122; line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-6" style="color: #0645ad;">[5]</a></sup>
+    - ID: "fb39ad03-f154-4066-a803-137d94e9ca65"
+      Hint: Description
+      Value: "Avul Pakir Jainulabdeen Abdul Kalam (/ˈɑːbdəl kəˈlɑːm/ (listen); 15 October 1931 – 27 July 2015) was an Indian aerospace scientist who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]"

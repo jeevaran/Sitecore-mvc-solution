@@ -1,0 +1,24 @@
+﻿---
+ID: "27a627a8-baf2-4fed-8fc1-a82b4e4518e6"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "adce1eff-7eda-4bbd-88f2-a43d8bd72b97"
+Path: /sitecore/content/CtsProfile1
+DB: master
+SharedFields:
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T035655Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: CtsProfile1

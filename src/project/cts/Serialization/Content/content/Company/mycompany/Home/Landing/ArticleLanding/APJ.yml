@@ -1,0 +1,77 @@
+﻿---
+ID: "84212604-3bbd-419a-a0ae-90ee26d45ae0"
+Parent: "02ba766e-cf55-4893-8af7-689bb6a9ffe5"
+Template: "6df7f1d2-0249-46dd-9206-9e6713220c98"
+Path: /sitecore/content/Company/mycompany/Home/Landing/ArticleLanding/APJ
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{05D1F31C-0C01-4DF8-9219-6AD15E39AA18}"
+          p:before="*"
+          s:ds=""
+          s:id="{885B8314-7D8C-4CBB-8000-01421EA8F406}"
+          s:par=""
+          s:ph="main"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{067ED782-CD50-43D2-B8F4-BD4FA42A6F49}"
+          p:after="r[@uid='{05D1F31C-0C01-4DF8-9219-6AD15E39AA18}']"
+          s:ds=""
+          s:id="{CE4ADCFB-7990-4980-83FB-A00C1E3673DB}"
+          s:par=""
+          s:ph="/main/centercolumn"
+          s:ccb="Clear on publish" />
+        <r
+          uid="{86428ED7-8F8E-48CB-95A2-E7AA9D4AFD04}"
+          p:after="*[1=2]"
+          s:ds=""
+          s:id="{3FF5EA67-02BE-4589-AE64-DB2D4D9C63BF}"
+          s:par=""
+          s:ph="/main/centercolumn/content"
+          s:ccb="Clear on publish" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "119fa9db-44af-408a-947c-2e6aefae7652"
+      Hint: Image
+      Value: |
+        <image mediaid="{5D030DF0-7D76-408A-8AEF-E733A0E33B77}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220211T032201Z
+    - ID: "332a89e2-e195-4e30-8ba5-7a791cf934ad"
+      Hint: Author
+      Value: Jeeva
+    - ID: "373e5d48-a8e7-4673-96e8-1f2da34d5ed4"
+      Hint: Version
+      Value: 1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b0eda48b-a037-4f48-86d3-6a944c4e3d1e"
+      Hint: Title
+      Value: A. P. J. Abdul Kalam
+    - ID: "b4a9a8f2-bbe4-47f9-8ffc-683c1715ce7f"
+      Hint: Brief
+      Value: |
+        <p style="color: #202122; margin: 0.5em 0px;"><strong>Avul Pakir Jainulabdeen</strong> Abdul Kalam was born on 15 October 1931 to a <a title="Tamil Muslim" href="https://en.wikipedia.org/wiki/Tamil_Muslim" style="color: #0645ad;">Tamil Muslim</a> family in the pilgrimage centre of <a title="Rameswaram" href="https://en.wikipedia.org/wiki/Rameswaram" style="color: #0645ad;">Rameswaram</a> on <a title="Pamban Island" href="https://en.wikipedia.org/wiki/Pamban_Island" style="color: #0645ad;">Pamban Island</a>, then in the <a title="Madras Presidency" href="https://en.wikipedia.org/wiki/Madras_Presidency" style="color: #0645ad;">Madras Presidency</a> and now in the <a title="States and union territories of India" href="https://en.wikipedia.org/wiki/States_and_union_territories_of_India" style="color: #0645ad;">State</a> of <a title="Tamil Nadu" href="https://en.wikipedia.org/wiki/Tamil_Nadu" style="color: #0645ad;">Tamil Nadu</a>. His father Jainulabdeen <a title="Marakkar" href="https://en.wikipedia.org/wiki/Marakkar" style="color: #0645ad;">Marakayar</a> was a boat owner and <a title="Imam" href="https://en.wikipedia.org/wiki/Imam" style="color: #0645ad;">imam</a> of a local mosque;<sup class="reference" id="cite_ref-:3_10-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-:3-10" style="color: #0645ad;">[9]</a></sup> his mother Ashiamma was a housewife.<sup class="reference" id="cite_ref-11" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-11" style="color: #0645ad;">[10]</a></sup><sup class="reference" id="cite_ref-KalamTiwari1999_12-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-KalamTiwari1999-12" style="color: #0645ad;">[11]</a></sup><sup class="reference" id="cite_ref-Jai2003_13-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-Jai2003-13" style="color: #0645ad;">[12]</a></sup><sup class="reference" id="cite_ref-PIB01march12_14-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-PIB01march12-14" style="color: #0645ad;">[13]</a></sup> His father owned a ferry that took <a title="Hindu" class="mw-redirect" href="https://en.wikipedia.org/wiki/Hindu" style="color: #0645ad;">Hindu</a> pilgrims back and forth between <a title="Rameswaram" href="https://en.wikipedia.org/wiki/Rameswaram" style="color: #0645ad;">Rameswaram</a> and the now uninhabited <a title="Dhanushkodi" href="https://en.wikipedia.org/wiki/Dhanushkodi" style="color: #0645ad;">Dhanushkodi</a>.<sup class="reference" id="cite_ref-15" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-15" style="color: #0645ad;">[14]</a></sup><sup class="reference" id="cite_ref-16" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-16" style="color: #0645ad;">[15]</a></sup> Kalam was the youngest of four brothers and one sister in his family.<sup class="reference" id="cite_ref-17" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-17" style="color: #0645ad;">[16]</a></sup><sup class="reference" id="cite_ref-18" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-18" style="color: #0645ad;">[17]</a></sup><sup class="reference" id="cite_ref-19" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-19" style="color: #0645ad;">[18]</a></sup> His ancestors had been wealthy <a title="Marakkar" href="https://en.wikipedia.org/wiki/Marakkar" style="color: #0645ad;">Marakayar</a> traders and landowners, with numerous properties and large tracts of land. Even though his ancestors had been wealthy <a title="Marakkar" href="https://en.wikipedia.org/wiki/Marakkar" style="color: #0645ad;">Marakayar</a> traders, the family had lost most of its fortunes by the 1920s and was poverty-stricken by the time Kalam was born. <a title="Marakkar" href="https://en.wikipedia.org/wiki/Marakkar" style="color: #0645ad;">Marakayar</a> are a Muslim ethnic found in coastal Tamil Nadu and Sri Lanka who claim descendance from Arab traders and local women. Their business had involved trading groceries between the mainland and the island and to and from <a title="Sri Lanka" href="https://en.wikipedia.org/wiki/Sri_Lanka" style="color: #0645ad;">Sri Lanka</a>, as well as ferrying pilgrims between the mainland and Pamban. As a young boy he had to sell newspapers in order to add to the family's meager income. With the opening of the <a title="Pamban Bridge" href="https://en.wikipedia.org/wiki/Pamban_Bridge" style="color: #0645ad;">Pamban Bridge</a> to the mainland in 1914, however, the businesses failed and the family fortune and properties were lost over time, apart from the ancestral home.<sup class="reference" id="cite_ref-20" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-20" style="color: #0645ad;">[19]</a></sup><sup class="reference" id="cite_ref-SharmaDas2004_21-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-SharmaDas2004-21" style="color: #0645ad;">[20]</a></sup><sup class="reference" id="cite_ref-visit_22-0" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-visit-22" style="color: #0645ad;">[21]</a></sup> </p>
+        <p style="color: #202122; margin: 0.5em 0px;">In his school years, Kalam had average grades but was described as a bright and hardworking student who had a strong desire to learn. He spent hours on his studies, especially <a title="Mathematics" href="https://en.wikipedia.org/wiki/Mathematics" style="color: #0645ad;">mathematics</a>.<sup class="reference" id="cite_ref-visit_22-1" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-visit-22" style="color: #0645ad;">[21]</a></sup> After completing his education at the Schwartz Higher Secondary School, Ramanathapuram, Kalam went on to attend <a title="St. Joseph's College, Tiruchirappalli" href="https://en.wikipedia.org/wiki/St._Joseph%27s_College,_Tiruchirappalli" style="color: #0645ad;">Saint Joseph's College, Tiruchirappalli</a>, then affiliated with the <a title="University of Madras" href="https://en.wikipedia.org/wiki/University_of_Madras" style="color: #0645ad;">University of Madras</a>, from where he graduated in <a title="Physics" href="https://en.wikipedia.org/wiki/Physics" style="color: #0645ad;">physics</a> in 1954.<sup class="reference" id="cite_ref-23" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-23" style="color: #0645ad;">[22]</a></sup> He moved to <a title="Chennai" href="https://en.wikipedia.org/wiki/Chennai" style="color: #0645ad;">Madras</a> in 1955 to study aerospace engineering in <a title="Madras Institute of Technology" href="https://en.wikipedia.org/wiki/Madras_Institute_of_Technology" style="color: #0645ad;">Madras Institute of Technology</a>.<sup class="reference" id="cite_ref-PIB01march12_14-1" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-PIB01march12-14" style="color: #0645ad;">[13]</a></sup> While Kalam was working on a senior class project, the Dean was dissatisfied with his lack of progress and threatened to revoke his scholarship unless the project was finished within the next three days. Kalam met the deadline, impressing the Dean, who later said to him, "I was putting you under stress and asking you to meet a difficult deadline".<sup class="reference" id="cite_ref-24" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-24" style="color: #0645ad;">[23]</a></sup> He narrowly missed achieving his dream of becoming a fighter pilot, as he placed ninth in qualifiers, and only eight positions were available in the <a title="Indian Air Force" href="https://en.wikipedia.org/wiki/Indian_Air_Force" style="color: #0645ad;">IAF</a>.<sup class="reference" id="cite_ref-25" style="line-height: 1;"><a href="https://en.wikipedia.org/wiki/A._P._J._Abdul_Kalam#cite_note-25" style="color: #0645ad;">[24]</a></sup></p>
+    - ID: "d7973286-3b96-4c80-94eb-552541de9612"
+      Hint: Publish date
+      Value: 20220211T032600Z
+    - ID: "fb39ad03-f154-4066-a803-137d94e9ca65"
+      Hint: Description
+      Value: "Avul Pakir Jainulabdeen Abdul Kalam (/ˈɑːbdəl kəˈlɑːm/ (listen); 15 October 1931 – 27 July 2015) was an Indian aerospace scientist who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]"

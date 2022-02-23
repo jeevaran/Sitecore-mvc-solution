@@ -1,0 +1,28 @@
+﻿---
+ID: "6e78d57c-c634-4527-85aa-f3be2ac79278"
+Parent: "0a40e424-0ddb-488d-afef-27c2e59ff38b"
+Template: "ce0903de-0524-400f-836e-7883fd5ade54"
+Path: /sitecore/content/Company/mycompany/Home/SiteSetting/StartupJoinerConfig
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T032048Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "735ba12a-717c-48f6-8679-deabf96d2656"
+      Hint: StartDate
+      Value: 20201231T183000Z
+    - ID: "9eb0497a-f52f-4b47-ae1a-f2d579203db7"
+      Hint: EndDate
+      Value: 20211231T180000Z

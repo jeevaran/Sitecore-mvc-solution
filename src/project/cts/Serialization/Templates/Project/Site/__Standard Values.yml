@@ -1,0 +1,33 @@
+﻿---
+ID: "db9f56b9-fd37-431b-a2ca-0de7716a15b0"
+Parent: "bf84152f-7d97-4488-8979-eb68ec5828b8"
+Template: "bf84152f-7d97-4488-8979-eb68ec5828b8"
+Path: /sitecore/templates/Project/Site/__Standard Values
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E185FD2A-4F58-4E57-ADCF-584EACE92422}">
+        <r
+          id="{33F07FC0-C3BE-4C53-BC6E-EAF487DAC61A}"
+          ph="cts-main"
+          uid="{B9270E79-BC6A-47E7-AA57-EF2D2243470A}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T022521Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

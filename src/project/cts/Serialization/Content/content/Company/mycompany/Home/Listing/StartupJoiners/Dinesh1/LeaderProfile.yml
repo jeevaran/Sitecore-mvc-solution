@@ -1,0 +1,38 @@
+﻿---
+ID: "307e6cfd-64c2-434a-bc59-9a977841dc74"
+Parent: "0c57b2d6-701a-4bae-a1ef-41088e38b120"
+Template: "da55553c-ff96-4601-842a-d63f3e78b5fe"
+Path: /sitecore/content/Company/mycompany/Home/Listing/StartupJoiners/Dinesh1/LeaderProfile
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/16x16/photo_portrait.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "015e9321-73a0-4af4-9d20-c121b0df72cf"
+      Hint: Brief
+      Value: "Avul Pakir Jainulabdeen Abdul Kalam (/ˈɑːbdəl kəˈlɑːm/ (listen); 15 October 1931 – 27 July 2015) was an Indian aerospace scientist who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]"
+    - ID: "08d41f53-7a52-4dbd-921c-78d74624c81f"
+      Hint: LeaderName
+      Value: Gopi
+    - ID: "106ab696-cf2f-4694-9c1d-a3cea343cdf5"
+      Hint: Description
+      Value: "Avul Pakir Jainulabdeen Abdul Kalam (/ˈɑːbdəl kəˈlɑːm/ (listen); 15 October 1931 – 27 July 2015) was an Indian aerospace scientist who served as the 11th president of India from 2002 to 2007. He was born and raised in Rameswaram, Tamil Nadu and studied physics and aerospace engineering. He spent the next four decades as a scientist and science administrator, mainly at the Defence Research and Development Organisation (DRDO) and Indian Space Research Organisation (ISRO) and was intimately involved in India's civilian space programme and military missile development efforts.[1] He thus came to be known as the Missile Man of India for his work on the development of ballistic missile and launch vehicle technology.[2][3][4] He also played a pivotal organisational, technical, and political role in India's Pokhran-II nuclear tests in 1998, the first since the original nuclear test by India in 1974.[5]"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T043740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d12dcc93-93d5-4716-8ed0-7052e8f3617a"
+      Hint: DateofJoin
+      Value: 20211005T025900Z
+    - ID: "e5ad47c3-49c7-450d-98cd-447689091798"
+      Hint: Link
+      Value: |
+        <link id="{0C57B2D6-701A-4BAE-A1EF-41088E38B120}" querystring="" text="" anchor="" url="/Company/mycompany/Home/Listing/StartupJoiners/Dinesh1" title="" class="" linktype="internal" />

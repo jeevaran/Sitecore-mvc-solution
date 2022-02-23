@@ -1,0 +1,47 @@
+﻿---
+ID: "33184c03-d07a-4f68-880e-6e42cd1a0795"
+Parent: "d512a4d9-3679-4b36-bd47-c23c92957821"
+Template: "d512a4d9-3679-4b36-bd47-c23c92957821"
+Path: /sitecore/templates/Project/Page/Home/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {B6955CFC-7DEE-4697-B254-AFE3356BDA9A}
+    {D87E9C97-C838-4F2F-8E20-D3E5376DF36A}
+    {C617437D-2315-414A-9228-914BBC520A42}
+    {E134F60B-5EFB-4B38-ABA4-27303202FB8E}
+    {DA55553C-FF96-4601-842A-D63F3E78B5FE}
+    {895098EE-1136-4055-A02D-1214300A42BD}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E185FD2A-4F58-4E57-ADCF-584EACE92422}">
+        <r
+          id="{33F07FC0-C3BE-4C53-BC6E-EAF487DAC61A}"
+          ph="cts-main"
+          uid="{88BCAFD2-9133-4197-8F36-6630D5431465}" />
+        <r
+          id="{1189BE7A-84FA-473C-B29C-B60D290EF22D}"
+          ph="cts-main"
+          uid="{7847AF7D-80CB-4945-A6E0-257857B9932B}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T022639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

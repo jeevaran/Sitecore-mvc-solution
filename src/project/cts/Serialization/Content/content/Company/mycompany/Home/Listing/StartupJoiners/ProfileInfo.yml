@@ -1,0 +1,44 @@
+﻿---
+ID: "cabb86b7-e271-42f6-8cf6-755d226553d7"
+Parent: "108d0117-f7e4-4e2a-ab65-50f1e27d8b6d"
+Template: "895098ee-1136-4055-a02d-1214300a42bd"
+Path: /sitecore/content/Company/mycompany/Home/Listing/StartupJoiners/ProfileInfo
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/16x16/user1.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1674867d-31a4-45a7-9359-392fe4a8535c"
+      Hint: Image
+      Value: |
+        <image mediaid="{5D030DF0-7D76-408A-8AEF-E733A0E33B77}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T095941Z
+    - ID: "434fe08b-4769-4636-86e2-a0ef01b5943c"
+      Hint: Lastname
+      Value: R
+    - ID: "4e801326-acb7-46ba-85f2-4d9db463ebbb"
+      Hint: Firstname
+      Value: Jeeva
+    - ID: "6ed762e2-6b8c-4e80-a04e-1f77fa2257e2"
+      Hint: ProfileDetail
+      Value: |
+        <link id="{4F13339F-855E-4930-AC24-06F4B4AC784B}" querystring="" text="" anchor="" url="/Company/mycompany/Home/Listing/StartupJoiners/ProfileInfo/LeaderProfile" title="" class="" linktype="internal" />
+    - ID: "a8e17723-fe3b-4024-8109-137ce6d65829"
+      Hint: Email
+      Value: 123@gmail.com
+    - ID: "bfa8e3d6-192d-45c2-a0b2-ea7fe2bf4c17"
+      Hint: DateofJoin
+      Value: 20210908T000000Z
+    - ID: "e4082664-75c3-470b-a869-b664cb1c5df4"
+      Hint: Article
+      Type: Treelist
+      Value: |
+        {145BAF34-AD63-496A-B1FE-AFDB4B2CEB53}
+        {84212604-3BBD-419A-A0AE-90EE26D45AE0}

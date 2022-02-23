@@ -1,0 +1,50 @@
+﻿---
+ID: "8462b178-2f8a-455f-b1ed-4e18812d1576"
+Parent: "895098ee-1136-4055-a02d-1214300a42bd"
+Template: "895098ee-1136-4055-a02d-1214300a42bd"
+Path: /sitecore/templates/Project/Page/CTSProfileInfo/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{DA55553C-FF96-4601-842A-D63F3E78B5FE}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E185FD2A-4F58-4E57-ADCF-584EACE92422}">
+        <r
+          id="{33F07FC0-C3BE-4C53-BC6E-EAF487DAC61A}"
+          ph="cts-main"
+          uid="{D0046612-9E0F-4FC3-B719-DDC001934374}" />
+        <r
+          id="{FC53593A-FFA0-4A59-A2B2-6E2BEA448E50}"
+          ph="cts-main"
+          uid="{4FA28346-C8A1-40CF-928B-2809442056B4}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T095335Z
+    - ID: "434fe08b-4769-4636-86e2-a0ef01b5943c"
+      Hint: Lastname
+      Value: 
+    - ID: "4e801326-acb7-46ba-85f2-4d9db463ebbb"
+      Hint: Firstname
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "a8e17723-fe3b-4024-8109-137ce6d65829"
+      Hint: Email
+      Value: 

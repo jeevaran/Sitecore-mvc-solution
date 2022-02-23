@@ -1,0 +1,41 @@
+﻿---
+ID: "d618713f-93b7-45d3-9464-511babb61813"
+Parent: "d87e9c97-c838-4f2f-8e20-d3e5376df36a"
+Template: "d87e9c97-c838-4f2f-8e20-d3e5376df36a"
+Path: /sitecore/templates/Project/Setting/StartupJoiner/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{895098EE-1136-4055-A02D-1214300A42BD}"
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{E185FD2A-4F58-4E57-ADCF-584EACE92422}">
+        <r
+          id="{33F07FC0-C3BE-4C53-BC6E-EAF487DAC61A}"
+          ph="cts-main"
+          uid="{749CBC24-4F02-4A6F-AEE0-5C1639DC1C17}" />
+        <r
+          id="{50E37708-EC8C-44DE-8C0A-83756436FBB1}"
+          ph="cts-main"
+          uid="{F1FC6E0A-54B5-4473-A7E2-6F35EC4FAE2F}" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T024708Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

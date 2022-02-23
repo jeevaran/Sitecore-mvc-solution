@@ -1,0 +1,87 @@
+﻿---
+ID: "f4aeca02-abf1-4efb-b9df-fc1537fb22d4"
+Parent: "bef2e7fa-8505-4d6e-8498-ee2127f34ec3"
+Template: "d512a4d9-3679-4b36-bd47-c23c92957821"
+Path: /sitecore/content/Company/mycompany/Home
+DB: master
+SharedFields:
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:p="p" xmlns:s="s"
+      p:p="1">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+        <r
+          uid="{88BCAFD2-9133-4197-8F36-6630D5431465}"
+          s:ccb="Clear on publish"
+          s:ds=""
+          s:par="" />
+        <r
+          uid="{7847AF7D-80CB-4945-A6E0-257857B9932B}"
+          s:ccb="Clear on publish"
+          s:ds="{84212604-3BBD-419A-A0AE-90EE26D45AE0}"
+          s:par="" />
+      </d>
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{7847AF7D-80CB-4945-A6E0-257857B9932B}"
+              s:pt="{1F08AAD7-9140-4289-BF95-5FCF6A4A3063}"
+              s:uid="{7847AF7D-80CB-4945-A6E0-257857B9932B}">
+              <rls>
+                <ruleset
+                  s:pet="true">
+                  <rule
+                    uid="{06382FC6-2EBA-4063-B17F-7A03778D3BDC}"
+                    s:name="Specify name..."
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="925A9F9F981B4EA0860B17A94A6497CD"
+                        s:id="{C18B0900-ED61-47A8-AEF0-AD6D133512C8}"
+                        s:DaysList="{8A19F2AA-ABB9-4496-A64E-56CDBE1C2D4C}" />
+                    </conditions>
+                    <actions>
+                      <action
+                        uid="BD21B7F479124F1A898F7EE62567E363"
+                        s:id="{0F3C6BEC-E56B-4875-93D7-2846A75881D2}"
+                        s:DataSource="{0ACFBC1E-7AC4-42AE-BB15-FCE07F61A919}" />
+                    </actions>
+                  </rule>
+                  <rule
+                    uid="{00000000-0000-0000-0000-000000000000}"
+                    s:name="Default"
+                    s:test="true">
+                    <conditions>
+                      <condition
+                        uid="4A2717BA44A7483BB9A6C81689037598"
+                        s:id="{4888ABBB-F17D-4485-B14B-842413F88732}" />
+                    </conditions>
+                    <actions />
+                  </rule>
+                </ruleset>
+              </rls>
+            </r>
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T030355Z
+    - ID: "77ab470a-b7aa-4421-aea7-851aac4d5df8"
+      Hint: isNavigable
+      Type: Checkbox
+      Value: 1

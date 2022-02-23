@@ -1,0 +1,18 @@
+﻿---
+ID: "004d2762-65e8-4bf4-9321-6a911e64ca98"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "0c7916cc-3d20-4214-989a-bde4739a8e7d"
+Path: /sitecore/content/Profile
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T053331Z
+    - ID: "b78b113b-d8b2-4c60-82c9-5af027e06a96"
+      Hint: Article
+      Type: Treelist
+      Value: "{C1144F73-2312-478B-BE26-1C0029A15400}"

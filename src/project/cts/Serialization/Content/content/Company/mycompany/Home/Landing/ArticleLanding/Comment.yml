@@ -1,0 +1,18 @@
+﻿---
+ID: "4e4c9278-d9db-47ec-86c5-ec2d5f18ca31"
+Parent: "02ba766e-cf55-4893-8af7-689bb6a9ffe5"
+Template: "b3d5055c-aec0-4762-a437-f33dd0209ce0"
+Path: /sitecore/content/Company/mycompany/Home/Landing/ArticleLanding/Comment
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220222T052534Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

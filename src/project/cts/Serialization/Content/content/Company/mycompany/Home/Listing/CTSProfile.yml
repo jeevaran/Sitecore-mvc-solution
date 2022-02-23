@@ -1,0 +1,41 @@
+﻿---
+ID: "c1144f73-2312-478b-be26-1c0029a15400"
+Parent: "5a92b065-b010-44d3-b69f-c57a492df9eb"
+Template: "adce1eff-7eda-4bbd-88f2-a43d8bd72b97"
+Path: /sitecore/content/Company/mycompany/Home/Listing/CTSProfile
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/16x16/users2.png
+- ID: "a4f985d9-98b3-4b52-aaaf-4344f6e747c6"
+  Hint: __Workflow
+  Value: "{A5BC37E7-ED96-4C1E-8590-A26E64DB55EA}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220216T032828Z
+    - ID: "3e431de1-525e-47a3-b6b0-1ccbec3a8c98"
+      Hint: __Workflow state
+      Value: "{190B1C84-F1BE-47ED-AA41-F42193D9C8FC}"
+    - ID: "592923bd-b700-46e4-98d6-3fb9a8a6d203"
+      Hint: Lastname
+      Value: J
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "75577384-3c97-45da-a847-81b00500e250"
+      Hint: Title
+      Value: Test
+    - ID: "ba5aabe8-172f-4832-b207-fd9207668bc3"
+      Hint: ActionLink
+      Value: |
+        <link id="{CABB86B7-E271-42F6-8CF6-755D226553D7}" querystring="" text="" anchor="" url="/Company/mycompany/Home/Listing/StartupJoiners/ProfileInfo" title="" class="" linktype="internal" />
+    - ID: "d4e1873a-5f54-40e2-8f45-305aeeec3fc3"
+      Hint: Firstname
+      Value: Kovarthi

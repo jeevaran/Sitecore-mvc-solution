@@ -1,0 +1,14 @@
+﻿---
+ID: "a7caa537-4c92-455e-8e51-9ff4bf1af926"
+Parent: "0de95ae4-41ab-4d01-9eb0-67441b7c2450"
+Template: "0f71aa7f-48c0-45be-9257-16c506ea14f2"
+Path: /sitecore/content/Company
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T025738Z

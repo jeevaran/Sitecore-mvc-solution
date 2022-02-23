@@ -1,0 +1,14 @@
+﻿---
+ID: "145baf34-ad63-496a-b1fe-afdb4b2ceb53"
+Parent: "02ba766e-cf55-4893-8af7-689bb6a9ffe5"
+Template: "6df7f1d2-0249-46dd-9206-9e6713220c98"
+Path: "/sitecore/content/Company/mycompany/Home/Landing/ArticleLanding/Sample -1"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220217T033554Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "4c56ba2b-c4c4-4346-9331-00773d3cfc14"
+Parent: "385f289c-6c78-472b-bc45-fe590ebe669b"
+Template: "385f289c-6c78-472b-bc45-fe590ebe669b"
+Path: /sitecore/templates/Project/Setting/SiteSetting/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220218T031846Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

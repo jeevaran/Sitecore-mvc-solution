@@ -1,0 +1,14 @@
+﻿---
+ID: "8146f0ac-6654-4d50-be19-c6e05afdc8af"
+Parent: "f4aeca02-abf1-4efb-b9df-fc1537fb22d4"
+Template: "c617437d-2315-414a-9228-914bbc520a42"
+Path: /sitecore/content/Company/mycompany/Home/Landing
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20220221T054747Z
